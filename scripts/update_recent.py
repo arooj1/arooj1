@@ -40,8 +40,10 @@ def render(repos, now):
     seen, unique = set(), []
     for r in picked:
         base = re.sub(r"[-_](?:version|v)[-_]?\d+$", "", r["name"].lower())
-        if base not in seen:
-            seen.add(base)
+        desc = (r.get("description") or "").strip().lower()
+        keys = {base} | ({"desc:" + desc} if desc else set())
+        if not keys & seen:
+            seen |= keys
             unique.append(r)
     picked = unique[:COUNT]
     if not picked:

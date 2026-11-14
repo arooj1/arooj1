@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Arooj Qureshi — Production AI in regulated industries: agents, retrieval, evaluation" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Arooj Qureshi — Production AI in regulated industries: agents, retrieval, evaluation" src="assets/banner-dark.svg" width="100%">
 
 I build production AI in regulated industries and teach others to do the same. Right now I'm a **Senior Manager, Data & AI Engineering in the telecom industry**, where I lead a team of five building AI for wireless revenue assurance. Along the way I've worked across telecom, energy, healthcare and education — the common thread is taking AI out of the notebook and into systems people rely on.
 
