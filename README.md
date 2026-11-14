@@ -22,6 +22,7 @@ I build production AI in regulated industries and teach others to do the same. R
 | [**voice-agent-chatbot**](https://github.com/arooj1/voice-agent-chatbot) | *Routie* — internal IT + HR agent on Gemini with function calling, Vertex AI Search RAG, guardrails, and an automated LLM-as-judge eval gate in GitHub Actions. |
 | [**agentic-ai-memory-management**](https://github.com/arooj1/agentic-ai-memory-management) | MemGPT-style tiered memory for agents, including memory redaction by security level so agents only recall what they're authorized to. |
 | [**aima**](https://github.com/arooj1/aima) | A modular meta-agent that routes queries through a registry of specialist agents with a shared memory store. |
+| [**email_automation**](https://github.com/arooj1/email_automation) | Lead-outreach automation: pulls prospects from Google Sheets and sends personalized email and WhatsApp messages from a Streamlit app. |
 
 ### 🛰️ Recently shipped
 
