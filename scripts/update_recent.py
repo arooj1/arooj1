@@ -35,7 +35,15 @@ def render(repos, now):
         r for r in repos
         if not r.get("fork") and not r.get("archived") and not r.get("private")
         and r["name"].lower() not in EXCLUDE
-    ][:COUNT]
+    ]
+    # Collapse version variants (foo, foo-v2, foo-version-3) to the newest one.
+    seen, unique = set(), []
+    for r in picked:
+        base = re.sub(r"[-_](?:version|v)[-_]?\d+$", "", r["name"].lower())
+        if base not in seen:
+            seen.add(base)
+            unique.append(r)
+    picked = unique[:COUNT]
     if not picked:
         return "_Nothing public yet — check back soon._"
     lines = []
