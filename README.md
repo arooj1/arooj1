@@ -1,6 +1,8 @@
-# Hi, I'm Arooj Qureshi 👋
-
-**AI engineering leader · educator · open-source builder** — Hamilton, Ontario 🇨🇦
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Arooj Qureshi — Production AI in regulated industries: agents, retrieval, evaluation" src="assets/banner-light.svg" width="100%">
+</picture>
 
 I build production AI in regulated industries and teach others to do the same. Right now I'm a **Senior Manager, Data & AI Engineering in the telecom industry**, where I lead a team of five building AI for wireless revenue assurance. Along the way I've worked across telecom, energy, healthcare and education — the common thread is taking AI out of the notebook and into systems people rely on.
 
@@ -24,6 +26,13 @@ I build production AI in regulated industries and teach others to do the same. R
 | [**voice-agent-chatbot**](https://github.com/arooj1/voice-agent-chatbot) | *Routie* — internal IT + HR agent on Gemini with function calling, Vertex AI Search RAG, guardrails, and an automated LLM-as-judge eval gate in GitHub Actions. |
 | [**agentic-ai-memory-management**](https://github.com/arooj1/agentic-ai-memory-management) | MemGPT-style tiered memory for agents, including memory redaction by security level so agents only recall what they're authorized to. |
 | [**aima**](https://github.com/arooj1/aima) | A modular meta-agent that routes queries through a registry of specialist agents with a shared memory store. |
+
+### 🛰️ Recently shipped
+
+<!-- RECENT:START -->
+<!-- RECENT:END -->
+
+<sub>Updated automatically every day from my public repos.</sub>
 
 ### 🎓 Teaching
 
