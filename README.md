@@ -33,8 +33,8 @@ I build production AI in regulated industries and teach others to do the same. R
 - [**postline-mcp**](https://github.com/arooj1/postline-mcp) — TypeScript · _Nov 14, 2026_
 - [**agent_chat_for_customers**](https://github.com/arooj1/agent_chat_for_customers) — Python · _Oct 31, 2026_
 - [**novacrest-qna-version-3**](https://github.com/arooj1/novacrest-qna-version-3) — NovaCrest RAG · _Oct 17, 2026_
-- [**novacrest-qna-version-2**](https://github.com/arooj1/novacrest-qna-version-2) — NovaCrest RAG · _Oct 17, 2026_
-- [**novacrest-qna**](https://github.com/arooj1/novacrest-qna) — NovaCrest RAG · _Oct 17, 2026_
+- [**rental-price-prediction-app-airbnb**](https://github.com/arooj1/rental-price-prediction-app-airbnb) — Airbnb Rental Price Prediction Streamlit App · _Oct 10, 2026_
+- [**rental-price-prediction-app**](https://github.com/arooj1/rental-price-prediction-app) — Airbnb Rental Price Prediction Streamlit App · _Oct 10, 2026_
 <!-- RECENT:END -->
 
 <sub>Updated automatically every day from my public repos.</sub>
