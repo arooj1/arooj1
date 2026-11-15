@@ -1,4 +1,4 @@
-<img alt="Arooj Qureshi: I build production AI. Then I teach it. Agents, retrieval and evaluation in regulated industries." src="assets/banner-dark.png" width="100%">
+<img alt="Arooj Qureshi: I build production AI. Then I teach it. Agents, retrieval and evaluation in regulated industries." src="assets/banner.svg" width="100%">
 
 Most AI never leaves the notebook. My job is getting it out, alive, and into systems people rely on.
 
