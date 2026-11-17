@@ -26,6 +26,7 @@ Open source, so you can lift what's useful.
 
 | Project | What it is |
 |---|---|
+| [**website-governance-audit**](https://github.com/arooj1/website-governance-audit) | Claude skill + scanner that visits a website like a first-time visitor who agreed to nothing, then checks it clause by clause against the laws where the owner is and where the visitors are: PIPEDA, Quebec Law 25, GDPR, EU AI Act Art. 50, FTC rules, WCAG. Colour-coded report, a cited clause and a fix for every finding. Tested on my own site first. MIT. |
 | [**postline-mcp**](https://github.com/arooj1/postline-mcp) | Open-source MCP connector that lets Claude draft, publish, edit and delete posts on your own LinkedIn profile — official API only, no scraping, deployed as a Cloudflare Worker. MIT. |
 | [**voice-agent-chatbot**](https://github.com/arooj1/voice-agent-chatbot) | *Routie* — internal IT + HR agent on Gemini with function calling, Vertex AI Search RAG, guardrails, and an automated LLM-as-judge eval gate in GitHub Actions. |
 | [**agentic-ai-memory-management**](https://github.com/arooj1/agentic-ai-memory-management) | MemGPT-style tiered memory for agents, including memory redaction by security level so agents only recall what they're authorized to. |
