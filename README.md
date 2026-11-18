@@ -36,11 +36,11 @@ Open source, so you can lift what's useful.
 ### Recently shipped
 
 <!-- RECENT:START -->
+- [**website-governance-audit**](https://github.com/arooj1/website-governance-audit) — JavaScript · _Nov 18, 2026_
 - [**postline-mcp**](https://github.com/arooj1/postline-mcp) — TypeScript · _Nov 15, 2026_
 - [**agent_chat_for_customers**](https://github.com/arooj1/agent_chat_for_customers) — Python · _Oct 31, 2026_
 - [**novacrest-qna-version-3**](https://github.com/arooj1/novacrest-qna-version-3) — NovaCrest RAG · _Oct 17, 2026_
 - [**rental-price-prediction-app-airbnb**](https://github.com/arooj1/rental-price-prediction-app-airbnb) — Airbnb Rental Price Prediction Streamlit App · _Oct 10, 2026_
-- [**agentic-ai-framework**](https://github.com/arooj1/agentic-ai-framework) · _Sep 30, 2026_
 <!-- RECENT:END -->
 
 <sub>Updated automatically every day from my public repos.</sub>
