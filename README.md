@@ -1,4 +1,4 @@
-<img alt="Arooj Qureshi, fractional AI lead for regulated industries: from notebook to production. A model moves through five stages: notebook prototype, retrieval with RAG and GraphRAG, agents with LangGraph and guardrails, an LLM-as-judge eval gate, and monitored, auditable production on Vertex AI." src="assets/banner.svg" width="100%">
+<img alt="Arooj Qureshi, AI governance advisor for regulated industries: from notebook to production. A model moves through five stages: notebook prototype, retrieval with RAG and GraphRAG, agents with LangGraph and guardrails, an LLM-as-judge eval gate, and monitored, auditable production on Vertex AI." src="assets/banner.svg" width="100%">
 
 Most AI never leaves the notebook. My job is getting it out, alive, and into systems people rely on.
 
