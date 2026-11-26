@@ -36,11 +36,11 @@ Open source, so you can lift what's useful.
 ### Recently shipped
 
 <!-- RECENT:START -->
+- [**adk-inventory-eval**](https://github.com/arooj1/adk-inventory-eval) · _Nov 26, 2026_
 - [**agentic-ai-memory-management**](https://github.com/arooj1/agentic-ai-memory-management) — Jupyter Notebook · _Nov 24, 2026_
 - [**postline-mcp**](https://github.com/arooj1/postline-mcp) — TypeScript · _Nov 21, 2026_
 - [**website-governance-audit**](https://github.com/arooj1/website-governance-audit) — JavaScript · _Nov 21, 2026_
 - [**agent_chat_for_customers**](https://github.com/arooj1/agent_chat_for_customers) — Python · _Oct 31, 2026_
-- [**novacrest-qna-version-3**](https://github.com/arooj1/novacrest-qna-version-3) — NovaCrest RAG · _Oct 17, 2026_
 <!-- RECENT:END -->
 
 <sub>Updated automatically every day from my public repos.</sub>
