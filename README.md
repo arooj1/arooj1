@@ -36,9 +36,9 @@ Open source, so you can lift what's useful.
 ### Recently shipped
 
 <!-- RECENT:START -->
+- [**postline-mcp**](https://github.com/arooj1/postline-mcp) — TypeScript · _Nov 27, 2026_
 - [**adk-inventory-eval**](https://github.com/arooj1/adk-inventory-eval) · _Nov 26, 2026_
 - [**agentic-ai-memory-management**](https://github.com/arooj1/agentic-ai-memory-management) — Jupyter Notebook · _Nov 24, 2026_
-- [**postline-mcp**](https://github.com/arooj1/postline-mcp) — TypeScript · _Nov 21, 2026_
 - [**website-governance-audit**](https://github.com/arooj1/website-governance-audit) — JavaScript · _Nov 21, 2026_
 - [**agent_chat_for_customers**](https://github.com/arooj1/agent_chat_for_customers) — Python · _Oct 31, 2026_
 <!-- RECENT:END -->
